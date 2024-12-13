@@ -5,7 +5,8 @@ layout
 login
 peserta
 login.tsx
-components
+DeleteProduct.tsx
+EditProduct.tsx
 
 # dependencies
 /node_modules
