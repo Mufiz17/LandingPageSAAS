@@ -6,7 +6,6 @@ login
 peserta
 login.tsx
 DeleteProduct.tsx
-EditProduct.tsx
 
 # dependencies
 /node_modules
