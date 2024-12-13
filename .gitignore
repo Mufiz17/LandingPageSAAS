@@ -2,9 +2,8 @@
 activity
 guru
 layout
-login
 peserta
-login.tsx
+db.json
 
 # dependencies
 /node_modules

@@ -1,91 +1,42 @@
 {
   "kegiatan": [
     {
-      "name": "Buang sampah",
+      "name": "Outing",
       "jabatan": "",
       "status": "Aktif",
-      "date": "2024-12-12",
-      "time": "Malam",
-      "description": "Buuang apa aja",
-      "id": "ed87"
+      "date": "2024-12-20",
+      "time": "Siang",
+      "description": "JALAN JALAN SKUY\n",
+      "id": "c7ce"
     },
     {
-      "id": "c7ce",
-      "name": "Accusamus nisi ut ni",
-      "date": "1992-08-08",
-      "time": "Malam",
-      "description": "Ad possimus et enim"
-    },
-    {
-      "name": "Nihil ad nostrum qua",
+      "name": "Perpulangan Siswa",
       "jabatan": "",
       "status": "Aktif",
-      "date": "1972-10-23",
-      "time": "Sore",
-      "description": "Commodi vitae sit co",
-      "id": "6aff"
+      "date": "2024-12-13",
+      "time": "Malam",
+      "description": "Mudik!!!!",
+      "id": "50e0"
     }
   ],
   "peserta": [
     {
-      "name": "Hzmet",
-      "jabatan": "12",
-      "status": "Tidak Aktif",
-      "date": "2024-12-04",
-      "id": "a497"
-    },
-    {
-      "name": "Omnis omnis dignissi",
+      "name": "Mufiz",
       "jabatan": "12",
       "status": "Aktif",
-      "date": "2024-12-17",
-      "id": "13f8"
-    },
-    {
-      "name": "Nobis modi delectus",
-      "jabatan": "11",
-      "status": "Aktif",
-      "date": "2024-12-01",
-      "id": "f101"
-    },
-    {
-      "name": "Eius distinctio",
-      "jabatan": "11",
-      "status": "Tidak Aktif",
-      "date": "2024-12-14",
-      "id": "098e"
-    },
-    {
-      "name": "Voluptas ut asperior",
-      "jabatan": "10",
-      "status": "Aktif",
-      "date": "2024-12-29",
-      "id": "5fff"
-    },
-    {
-      "name": "Non architecto excep",
-      "jabatan": "10",
-      "status": "Tidak Aktif",
-      "date": "2024-12-28",
-      "id": "6f7d"
-    },
-    {
-      "name": "Voluptas velit occae",
-      "jabatan": "12",
-      "status": "Tidak Aktif",
       "date": "1978-02-26",
       "id": "d6c9"
     },
     {
-      "name": "Cupiditate labore no",
+      "name": "Gemi",
       "jabatan": "11",
-      "status": "Tidak Aktif",
+      "status": "Aktif",
       "date": "1973-01-13",
       "id": "f1e0"
     },
     {
-      "name": "Adli",
-      "jabatan": "12",
+      "name": "AT",
+      "jabatan": "10",
       "status": "Aktif",
       "date": "1998-03-26",
       "id": "0d5d"
@@ -96,13 +47,6 @@
       "jabatan": "12",
       "status": "Aktif",
       "date": "2022-03-08"
-    },
-    {
-      "id": "8d03",
-      "name": "ajis",
-      "jabatan": "12",
-      "status": "Aktif",
-      "date": "2024-08-03"
     }
   ],
   "jadwal": [
@@ -123,81 +67,32 @@
   ],
   "guru": [
     {
-      "id": "fa88",
-      "name": "Ulfa",
-      "jabatan": "Wakil Kepala Sekolah",
+      "id": "c04d",
+      "name": "mirza",
+      "jabatan": "guru it",
       "status": "Aktif",
-      "date": "2004-03-20"
+      "date": "2024-12-13"
     },
     {
-      "id": "c264",
       "name": "Fatimah",
-      "jabatan": "Wakil Kepala Sekolah",
+      "jabatan": "Guru IT",
       "status": "Aktif",
-      "date": "2009-04-09"
+      "date": "2024-12-13",
+      "id": "f652"
     },
     {
-      "name": "Apa coo",
-      "jabatan": "Cihuyy",
+      "id": "a4ce",
+      "name": "Dzikri",
+      "jabatan": "Guru IT",
       "status": "Aktif",
-      "date": "2017-11-20",
-      "id": "e89f"
+      "date": "2024-12-13"
     },
     {
-      "id": "5e35",
-      "name": "Apa aja dah",
-      "jabatan": "Suka-suka",
+      "id": "bb4f",
+      "name": "Pak bayu",
+      "jabatan": "Guru IT",
       "status": "Tidak Aktif",
-      "date": "5678-12-31"
-    },
-    {
-      "id": "9b39",
-      "name": "Apa aja dah",
-      "jabatan": "Suka-suka",
-      "status": "Tidak Aktif",
-      "date": "5678-12-31"
-    },
-    {
-      "id": "87bf",
-      "name": "Sit dolore doloremq",
-      "jabatan": "Ullamco nisi facere ",
-      "status": "Tidak Aktif",
-      "date": "1996-12-10"
-    },
-    {
-      "id": "0ce0",
-      "name": "Maiores neque exerci",
-      "jabatan": "Vero vitae qui expli",
-      "status": "Aktif",
-      "date": "1990-03-23"
-    },
-    {
-      "id": "6efc",
-      "name": "Ducimus libero adip",
-      "jabatan": "Quasi dicta reprehen",
-      "status": "Aktif",
-      "date": "1981-12-07"
-    },
-    {
-      "id": "c9fd",
-      "name": "Quis minus omnis qui",
-      "jabatan": "Qui harum corrupti ",
-      "status": "Aktif",
-      "date": "2012-07-24"
-    },
-    {
-      "id": "38c2",
-      "name": "Delectus rerum accu",
-      "jabatan": "Ab ipsum quia paria",
-      "status": "Aktif",
-      "date": "2001-11-04"
-    },
-    {
-      "id": "324c",
-      "name": "Eligendi fugit sed ",
-      "jabatan": "Sint quia voluptate",
-      "status": "Aktif",
-      "date": "1980-12-05"
+      "date": "2024-12-13"
     }
   ],
   "login": [
